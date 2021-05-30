@@ -1,0 +1,37 @@
+.login_text {
+    font-size: 10px;
+    align-items: center;
+  }
+  .con-suport {
+    align-items: flex-end;
+  }
+  .btn-submit {
+    background-color: #4f81bd;
+  }
+  
+  /* pay */
+  .form_data {
+    background-color: #596e87;
+  }
+  
+  .navbar {
+    color: #596e87;
+  }
+  
+  .t_head {
+    background-color: #173963;
+  }
+  
+  .black_row {
+    line-height: 20px;
+  }
+  .td-text {
+    font-size: 10px;
+  }
+  .tr_collapse{
+    height: 100vh;
+  }
+  .btn-block{
+    font-size: 10px;
+  }
+  
